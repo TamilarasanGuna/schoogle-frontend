@@ -1,0 +1,53 @@
+h3
+{
+    font-family: Avenir Next;
+    font-style: normal;
+    color: #0098FC;
+}
+
+input[type=text] 
+{
+    width: 200%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-top: 10px;
+}
+
+input[type=save] {
+    position: absolute;
+    width: 87px;
+    height: 40px;
+    left: 255px;
+    top: 190px;
+    text-align: center;
+    background: #FF9C00;
+    border-radius: 4px;
+    color : white;
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+
+  }
+
+  .container
+  {
+    position: absolute;
+    width: 162px;
+    height: 21px;
+    left: 565px;
+    top: 240px;
+
+    font-family: Avenir Next;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+  }
+
